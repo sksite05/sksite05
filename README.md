@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksite05&show_icons=true&theme=github_dark&hide_border=true&v=1" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sksite05&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksite05&layout=compact&theme=github_dark&hide_border=true&v=1" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sksite05&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 
