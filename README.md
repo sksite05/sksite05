@@ -13,7 +13,7 @@
   <img src="https://streak-stats.demolab.com?user=sksite05&theme=github-dark&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sksite05&layout=compact&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?user=sksite05&theme=github-dark&hide_border=true" />
 </p>
 
 
