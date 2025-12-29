@@ -12,13 +12,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sksite05&theme=github-dark&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?user=sksite05&theme=github-dark&hide_border=true" />
-</p>
-
-
-
-
 
 
 ### ✍️ Random Dev Quote
