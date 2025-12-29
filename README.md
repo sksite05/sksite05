@@ -10,7 +10,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sksite05&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sksite05&theme=github-dark&hide_border=true&v=2)
+
 
 
 
